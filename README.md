@@ -37,7 +37,7 @@ Experience Minglr firsthand with a live website at [https://minglr.cu.ma/](https
 
 | Private Messaging |
 | ----------------- |
-![Private Messaging](https://github.com/Mayuresh-22/Minglr/blob/main/img/Minglr-Pvt-msg.png) |
+![Private Messaging](https://github.com/Chandan-samal/Minglr/blob/main/img/Minglr-Pvt-msg.png) |
 
 Certainly! Here are the modified installation steps including installing and configuring XAMPP and changing the directory to `htdocs` before cloning the GitHub repository:
 
