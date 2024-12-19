@@ -37,7 +37,7 @@ Experience Minglr firsthand with a live website at [https://minglr.cu.ma/](https
 
 | Private Messaging |
 | ----------------- |
-![Private Messaging](https://github.com/Chandan-samal/Minglr/blob/main/img/Minglr-Pvt-msg.png) |
+![Private Messaging](https://github.com/Mayuresh-22/Minglr/blob/main/img/Minglr-Pvt-msg.png) |
 
 Certainly! Here are the modified installation steps including installing and configuring XAMPP and changing the directory to `htdocs` before cloning the GitHub repository:
 
@@ -100,15 +100,6 @@ Contributions to Minglr are welcome! If you'd like to contribute, please follow 
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
 5. Submit a pull request, explaining your changes and why they should be merged.
-
-## Project Admin
-[Mayuresh Choudhary](https://github.com/Mayuresh-22)
-Email: [mayureshchoudhary22@gmail.com](mailto:mayureshchoudhary22@gmail.com)
-
-## 💖 Thanks to Our Contributors
-<a>
-  <img src="https://contributors-img.web.app/image?repo=Mayuresh-22/Minglr" />
-</a>
 
 
 ## License
